@@ -15,4 +15,5 @@ pip install -r requirements.txt
 ### 5. Other evaluation metrics
 ### 6. Rebalancing dataset classes
 ### 7. Recurrent neural network
+### 8. Pre-trained embedding model
 ### Conclusion
