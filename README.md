@@ -4,7 +4,7 @@ Specifically, natural language processing and neural networks were used to achie
 This notebook is my deep learning project for Jedha's Machine Learning Engineer certificate 
 
 ## Requirements
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Table of content
 ### Introduction
